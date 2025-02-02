@@ -14,6 +14,7 @@ A simple weather application that provides real-time weather information. It use
 <br>
 The default page shows three of my favourite cities.
 <br>
+
 ![Weather App Demo](./images/defaultpage.png)
 
 The search page of course has only one city at time.
