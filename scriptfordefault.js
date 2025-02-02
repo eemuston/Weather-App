@@ -42,7 +42,7 @@ async function getWeather(city) {
         {
             weatherIcon.src = "images/clouds.png";
         }
-        else if (data.weather[0].main == "Clear" && (localTime.getHours() >= 21 || localTime.getHours() <= 6))
+        else if (data.weather[0].main == "Clear" && (localTime.getHours() >= 21 && localTime.getHours <= 24 || localTime.getHours() >= 0 && localTime.getHours() <= 6))
         {
                 weatherIcon.src = "images/night.png";
         }
