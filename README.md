@@ -4,8 +4,11 @@ A simple weather application that provides real-time weather information. It use
 <br>
 <h2>Features</h2>
 - Search by City: Users can search for weather information for any city.
+<br>
 - Date and time: Display date, weekday and time.
+<br>
 - Current Weather: Displays temperature, humidity, wind speed, and weather condition.
+<br>
 - Weather Images: Corresponding images for various weather conditions (clear sky, clouds, rain, snow, etc.).
 <br>
 The default page shows three of my favourite cities.
@@ -16,7 +19,9 @@ The search page of course has only one city at time.
 
 ![Weather App Demo](./images/searchpage.png)
 <br>
-Technologies Used
+<h2>Technologies Used</h2>
 - Frontend: HTML, CSS, JavaScript
+<br>
 - Weather API: OpenWeatherMap API
+<br>
 - Images: Icons for different weather conditions (e.g., sunny, cloudy, rainy, snowy)
