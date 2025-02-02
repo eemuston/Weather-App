@@ -11,6 +11,7 @@ A simple weather application that provides real-time weather information. It use
 <br>
 - Weather Images: Corresponding images for various weather conditions (clear sky, clouds, rain, snow, etc.).
 <br>
+<br>
 The default page shows three of my favourite cities.
 
 ![Weather App Demo](./images/defaultpage.png)
