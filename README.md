@@ -1,4 +1,4 @@
-Weather App
+<h1>Weather App</h1>
 <br>
 A simple weather application that provides real-time weather information. It uses data from the OpenWeatherMap API and displays weather details with intuitive images to represent different weather conditions.
 
