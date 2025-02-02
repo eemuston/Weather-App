@@ -12,7 +12,7 @@ A simple weather application that provides real-time weather information. It use
 - Weather Images: Corresponding images for various weather conditions (clear sky, clouds, rain, snow, etc.).
 <br>
 <br>
-The default page shows three of my favourite cities.
+The default page shows three of my favourite cities. (Yes, every one of them had the same temperature at the time.)
 <br>
 
 ![Weather App Demo](./images/defaultpage.png)
