@@ -1,5 +1,7 @@
+import { config } from "./config.js";
+
 document.addEventListener("DOMContentLoaded", () => {
-const apiKey = "ff1095a166ebe73ed14381aeade7dc58";
+const apiKey = config.apiKey;
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 const weatherIcon = document.querySelector(".weather-icon");
